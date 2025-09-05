@@ -663,14 +663,14 @@
       });
       let s = {
         urls: {
-          x: "https://x.com/PetrokonBase",
-          telegram: "https://t.me/PetrokonBase",
+          x: "https://x.com/Petrok_moon",
+          telegram: "https://t.me/Petrok_moon",
           dextools:
-            "https://www.dextools.io/app/en/base/pair-explorer/0x461ded3B409EFEf768837Ca4f1A27615901B69c9",
+            "https://www.dextools.io/app/en/base/pair-explorer/0xcomingsoon",
           dexscreener:
-            "https://dexscreener.com/base/0x461ded3B409EFEf768837Ca4f1A27615901B69c9",
+            "https://dexscreener.com/base/0xcomingsoon",
         },
-        contractAddress: "0x461ded3B409EFEf768837Ca4f1A27615901B69c9",
+        contractAddress: "0xcomingsoon",
       };
     },
     2811: function (e, t, a) {

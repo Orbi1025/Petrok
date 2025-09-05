@@ -666,9 +666,9 @@
           x: "https://x.com/Petrok_moon",
           telegram: "https://t.me/Petrok_moon",
           dextools:
-            "https://www.dextools.io/app/en/base/pair-explorer/0xcomingsoon",
+            "https://www.dextools.io/app/en/ethereum/pair-explorer/0xcomingsoon",
           dexscreener:
-            "https://dexscreener.com/base/0xcomingsoon",
+            "https://dexscreener.com/ethereum/0xcomingsoon",
         },
         contractAddress: "0xcomingsoon",
       };

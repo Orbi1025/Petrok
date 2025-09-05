@@ -352,7 +352,7 @@
           x: "https://x.com/Petrok_moon",
           telegram: "https://t.me/Petrok_moon",
           dextools:
-            "https://www.dextools.io/app/en/base/pool-explorer/0xcomingsoon",
+            "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
           Uniswap:
             "https://app.uniswap.org/#/swap?inputCurrency=base&outputCurrency=0xcomingsoon",
         },
